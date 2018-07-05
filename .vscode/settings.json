@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "${workspaceFolder}\\Holanvenv\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
+}
